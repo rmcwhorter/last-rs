@@ -1,0 +1,11 @@
+[package]
+name = "last-rs"
+version = "0.1.0"
+authors = ["Ryan McWhorter <rmcwhorter@gmail.com>"]
+edition = "2018"
+homepage = "https://github.com/rmcwhorter/last-rs"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
