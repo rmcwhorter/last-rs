@@ -6,6 +6,7 @@ edition = "2018"
 homepage = "https://github.com/rmcwhorter/last-rs"
 readme = "README.md"
 license = "MIT OR Apache-2.0"
+description = "last-rs is a very short utility for working with vectors."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
